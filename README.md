@@ -1,4 +1,4 @@
-# NewarkAirportScalesInvestigation2026
+# Newark Airport Scales Investigation 2026
 This repository contains the data and analysis gathered to conduct my investigation into Newark Liberty International Airport scales in conjunction with the New York City News Service and with the support of the Equity Through Data Project at the Craig Newmark Graduate School of Journalism at CUNY and published with NJ Spotlight News. In order to build the datasets, I had to parse out the numbers from the .pdf files sent to me by NJ DCA and input them into a spreadsheet. I double checked the data by cross-referencing the spreadsheet and the emailed documents to ensure accuracy. Once that was done, I was able to analyze the data.  
 
 # Data:
