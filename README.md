@@ -18,6 +18,9 @@ The dataset combines the inspections of each scale at every terminal into one ma
 
 The dataset combines the re-inspections of each scale at every terminal into one main source containing identifiying information of the scale, what terminal it belongs to, weight test result, overall test result and exact amount of pounds either over or underweighed in total.
 
+# Methodology
+I imported and analyzed the data, focusing on the amount of condemned scales compared to the total number of scales. I also analyzed data on John F. Kennedy International Airport and Laguardia Airport based on publicly available data on Open Data NYC. Based on my analysis, 2 scales were found to be inaccurate, with both found at JFK. This was out of roughly 500-600 scales. 
+
 # Data Dictionary
 1. Sticker Number: Identifiying scale sticker number
 2. Serial Number: Identifiying scale serial number
@@ -52,6 +55,3 @@ The dataset combines the re-inspections of each scale at every terminal into one
 2. Condemned: Failed test
 3. Sealed Subject: Failed and most likely affecting the consumer positively
 4. Not Sealed: Scale was not accessible at the time of inspection due to a multitude of reasons
-
-# Methodology
-I imported and analyzed the data, focusing on the amount of condemned scales compared to the total number of scales. I also analyzed data on John F. Kennedy International Airport and Laguardia Airport based on publicly available data on Open Data NYC. Based on my analysis, 2 scales were found to be inaccurate, with both found at JFK. This was out of roughly 500-600 scales. 
