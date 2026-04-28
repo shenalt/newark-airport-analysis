@@ -2,7 +2,7 @@
 This repository contains the data and analysis gathered to conduct my investigation into Newark Liberty International Airport scales in conjunction with the New York City News Service and with the support of the Equity Through Data Project at the Craig Newmark Graduate School of Journalism at CUNY and published with NJ Spotlight News. In order to build the datasets, I had to parse out the numbers from the .pdf files sent to me by NJ DCA and input them into a spreadsheet. I double checked the data by cross-referencing the spreadsheet and the emailed documents to ensure accuracy. Once that was done, I was able to analyze the data.  
 
 # Data:
-1. newarkInitInspections.csv: The data from the inspection report on every scale examined by the New Jersey Division of Consumer Affairs on tktk given to me by the Division of Consumer Affairs through an OPRA request submitted on June 25, 2025. The data was received on August 5, 2025. The data consists of:
+1. NewarkInitInspections.csv: The data from the inspection report on every scale examined by the New Jersey Division of Consumer Affairs on 10/16/2023 & 10/17/2023 & 10/24/2023 given to me by the Division of Consumer Affairs through an OPRA request submitted on June 25, 2025. The data was received on August 5, 2025. The data consists of:
 
 - Initial Scale Inspection Report - Terminal A - Newark Liberty International Airport
 - Initial Scale Inspection Report - Terminal B - Newark Liberty International Airport
@@ -10,7 +10,7 @@ This repository contains the data and analysis gathered to conduct my investigat
 
 The dataset combines the inspections of each scale at every terminal into one main source containing identifiying information of the scale, what terminal it belongs to, weight test result, overall test result and exact amount of pounds either over or underweighed in total.
 
-2. NewarkReinspection.csv: The data from the re-inspection report conducted by the New Jersey Division of Consumer Affairs on tktk given to me by the Division of Consumer Affairs through an OPRA request submitted on June 25, 2025. The data was received on August 5, 2025. The data consists of:
+2. NewarkReinspection.csv: The data from the re-inspection report conducted by the New Jersey Division of Consumer Affairs on 10/30/2023 & 10/31/2023 given to me by the Division of Consumer Affairs through an OPRA request submitted on June 25, 2025. The data was received on August 5, 2025. The data consists of:
 
 - Initial Scale Re-Inspection Report - Terminal A - Newark Liberty International Airport
 - Initial Scale Re-Inspection Report - Terminal B - Newark Liberty International Airport
