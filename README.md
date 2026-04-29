@@ -8,7 +8,7 @@ This repository contains the data and analysis gathered to conduct my investigat
 - Initial Scale Inspection Report - Terminal B - Newark Liberty International Airport
 - Initial Scale Inspection Report - Terminal C - Newark Liberty International Airport
 
-The dataset combines the inspections of each scale at every terminal into one main source containing identifiying information of the scale, what terminal it belongs to, weight test result, overall test result and exact amount of pounds either over or underweighed in total.
+The dataset combines the inspections of each scale at every terminal into one main source containing identifiying information of the scale, what terminal it belongs to, weight test results, overall test result and exact amount of pounds either over or underweighed in total.
 
 2. NewarkReinspection.csv: The data from the re-inspection report conducted by the New Jersey Division of Consumer Affairs on 10/30/2023 & 10/31/2023 given to me by the Division of Consumer Affairs through an OPRA request submitted on June 25, 2025. The data was received on August 5, 2025. The data consists of:
 
@@ -16,7 +16,7 @@ The dataset combines the inspections of each scale at every terminal into one ma
 - Initial Scale Re-Inspection Report - Terminal B - Newark Liberty International Airport
 - Initial Scale Re-Inspection Report - Terminal C - Newark Liberty International Airport
 
-The dataset combines the re-inspections of each scale at every terminal into one main source containing identifiying information of the scale, what terminal it belongs to, weight test result, overall test result and exact amount of pounds either over or underweighed in total.
+The dataset combines the re-inspections of each scale at every terminal into one main source containing identifiying information of the scale, what terminal it belongs to, weight test results, overall test result and exact amount of pounds either over or underweighed in total.
 
 # Methodology
 I imported and analyzed the data, focusing on the amount of condemned scales compared to the total number of scales. I also analyzed data on John F. Kennedy International Airport and Laguardia Airport based on publicly available data on Open Data NYC. Based on my analysis, 2 scales were found to be inaccurate, with both found at JFK. This was out of roughly 500-600 scales. 
